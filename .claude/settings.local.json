@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Read(//usr/local/bin/**)",
-      "Read(//opt/homebrew/bin/**)"
-    ]
-  }
-}
